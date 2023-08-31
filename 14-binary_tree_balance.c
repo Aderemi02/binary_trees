@@ -2,6 +2,7 @@
 /**
  * binary_tree_balance - balancing the tree
  * @tree: tree to be checked for balanced factor
+ * Return: balance factor oe 0 otherwise
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
